@@ -1,3 +1,16 @@
+![API TEST CI](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2/api-test-ci.yaml?branch=main&label=API%20TEST%20CI&style=flat-square)
+
+![FRONTEND CICD](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-front-office/test-ci.yaml?branch=main&label=FRONTEND&style=flat-square)
+
+![BACK OFFICE CICD](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-back-office/test-ci.yaml?branch=main&label=BACK%20OFFICE%20CICD&style=flat-square)
+
+
+![FE CICD](https://github.com/Check-Data-Out/velog-dashboard-v2-fe/actions/workflows/docker-publish.yaml/badge.svg)
+
+![BACK OFFICE CICD](https://github.com/Check-Data-Out/velog-dashboard-v2-back-office/actions/workflows/test-ci.yaml/badge.svg)
+
+
+
 # Velog Dashboard V2
 
 > 해당 레포는 총 4개의 레포를 통합해서 공개하는 레포입니다.
