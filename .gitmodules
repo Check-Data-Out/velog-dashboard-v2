@@ -1,0 +1,12 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Check-Data-Out/velog-dashboard-v2-api
+[submodule "back-office"]
+	path = back-office
+	url = https://github.com/Check-Data-Out/velog-dashboard-v2-back-office
+[submodule "fe"]
+	path = fe
+	url = https://github.com/Check-Data-Out/velog-dashboard-v2-fe
+[submodule "extension"]
+	path = extension
+	url = https://github.com/Check-Data-Out/velog-dashboard-v2-extension
