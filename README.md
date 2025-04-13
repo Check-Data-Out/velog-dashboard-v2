@@ -64,3 +64,26 @@
 | Batch 18 | ![Batch 18](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-back-office/run-daily-aggre-set18.yaml?branch=main&label=Batch%2018&style=flat-square&logo=githubactions&color=8A2BE2) |
 | Batch 19 | ![Batch 19](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-back-office/run-daily-aggre-set19.yaml?branch=main&label=Batch%2019&style=flat-square&logo=githubactions&color=8A2BE2) |
 | Batch 20 | ![Batch 20](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-back-office/run-daily-aggre-set20.yaml?branch=main&label=Batch%2020&style=flat-square&logo=githubactions&color=8A2BE2) |
+
+
+### 깃헙 서브모듈 업데이트
+
+```shell
+# 1. 서브모듈 원격 최신 커밋 가져오기
+git submodule update --remote --merge
+
+# 2. 변경된 서브모듈 커밋 상태 확인
+git status
+
+# 3. 변경된 서브모듈을 상위 레포에 add
+git add path/to/submodule1 path/to/submodule2 ...
+
+# 모든 서브모듈을 한 번에 add 하려면
+git add .
+
+# 4. 커밋
+git commit -m "Update all submodules to latest remote commit"
+
+# 5. 푸시
+git push
+```
