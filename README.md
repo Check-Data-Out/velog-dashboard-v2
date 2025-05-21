@@ -30,34 +30,34 @@
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/33516349?v=4" width="48" height="48" alt="nuung" />
       <br>
-      <i><a herf="https://github.com/nuung">Nuung</a></i>
+      <i><a href="https://github.com/nuung">Nuung</a></i>
     </td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/107257423?v=4" width="48" height="48" alt="six-standard" />
       <br>
-      <i><a herf="https://github.com/six-standard">six-standard</a></i>
+      <i><a href="https://github.com/six-standard">six-standard</a></i>
     </td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/105155269?v=4" width="48" height="48" alt="Jihyun3478" />
       <br>
-      <i><a herf="https://github.com/Jihyun3478">Jihyun3478</a></i>
+      <i><a href="https://github.com/Jihyun3478">Jihyun3478</a></i>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/146878715?s=64&v=4" width="48" height="48" alt="ooheunda" />
       <br>
-      <i><a herf="https://github.com/ooheunda">ooheunda</a></i>
+      <i><a href="https://github.com/ooheunda">ooheunda</a></i>
     </td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/154482801?v=4" width="48" height="48" alt="HA0N1" />
       <br>
-      <i><a herf="https://github.com/HA0N1">HA0N1</a></i>
+      <i><a href="https://github.com/HA0N1">HA0N1</a></i>
     </td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/88363672?v=4" width="48" height="48" alt="BDlhj" />
       <br>
-      <i><a herf="https://github.com/BDlhj">BDlhj</a></i>
+      <i><a href="https://github.com/BDlhj">BDlhj</a></i>
     </td>
   </tr>
 </table>
