@@ -23,7 +23,46 @@
 4. 데이터 스크레이핑 batch 가 최대 30분 텀으로 루프를 돕니다. 그렇기 때문에 최초 데이터 이니셜라이징에 시간이 소요될 수 있습니다.
 5. (과거 영상 주의) 영상으로 보기! -> https://youtu.be/Ab8c4kmGhQA
 
-## 2. Local Setting (contribute)
+## 2. Contributor
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/33516349?v=4" width="48" height="48" alt="nuung" />
+      <br>
+      <i><a herf="https://github.com/nuung">Nuung</a></i>
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/107257423?v=4" width="48" height="48" alt="six-standard" />
+      <br>
+      <i><a herf="https://github.com/six-standard">six-standard</a></i>
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/105155269?v=4" width="48" height="48" alt="Jihyun3478" />
+      <br>
+      <i><a herf="https://github.com/Jihyun3478">Jihyun3478</a></i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/146878715?s=64&v=4" width="48" height="48" alt="ooheunda" />
+      <br>
+      <i><a herf="https://github.com/ooheunda">ooheunda</a></i>
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/154482801?v=4" width="48" height="48" alt="HA0N1" />
+      <br>
+      <i><a herf="https://github.com/HA0N1">HA0N1</a></i>
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/88363672?v=4" width="48" height="48" alt="BDlhj" />
+      <br>
+      <i><a herf="https://github.com/BDlhj">BDlhj</a></i>
+    </td>
+  </tr>
+</table>
+
+## 3. Local Setting (contribute)
 
 - 아래의 3개 섹터로 이뤄져 있습니다.
 - **_[api, server-side](https://github.com/Check-Data-Out/velog-dashboard-v2-api)_**
@@ -34,7 +73,7 @@
 
 ![인프라 이미지](https://velog.velcdn.com/images/qlgks1/post/8b446ed9-7b56-43f7-a161-e5e8c562a3ef/image.png)
 
-## 3. 참조
+## 4. 참조
 
 - [velog dashboard v2 - 베타 오픈!!](https://velog.io/@qlgks1/velog-dashboard-v2-%EB%B2%A0%ED%83%80-%EC%98%A4%ED%94%88-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B5%AC%EC%9D%B8)
 - [velog dashboard v2 - 딸깍으로 전체 통계 보기](https://velog.io/@qlgks1/velog-dashboard-v2-%EB%94%B8%EA%B9%8D%EC%9C%BC%EB%A1%9C-%EC%A0%84%EC%B2%B4-%ED%86%B5%EA%B3%84-%EB%B3%B4%EA%B8%B0)
