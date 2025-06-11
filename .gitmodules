@@ -10,3 +10,6 @@
 [submodule "extension"]
 	path = extension
 	url = https://github.com/Check-Data-Out/velog-dashboard-v2-extension
+[submodule "velog-dashboard-v2-cache"]
+	path = velog-dashboard-v2-cache
+	url = https://github.com/Check-Data-Out/velog-dashboard-v2-cache
