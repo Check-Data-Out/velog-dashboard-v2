@@ -11,11 +11,15 @@
 > ***https://velog-dashboard.kro.kr***
 
 ![서비스메타이미지](https://velog-dashboard.kro.kr/opengraph-image.png)
-![서비스예시이미지](https://velog.velcdn.com/images/qlgks1/post/d2e824ed-2d25-4292-83ac-167efb2af50f/image.png)
+![서비스예시이미지1](https://velog.velcdn.com/images/qlgks1/post/d2e824ed-2d25-4292-83ac-167efb2af50f/image.png)
+![서비스예시이미지2](https://velog.velcdn.com/images/qlgks1/post/3be989a6-b3a1-4a69-bd3d-e0f29fdd7d45/image.png)
+![서비스예시이미지3](https://velog.velcdn.com/images/qlgks1/post/c6e7d0f1-0c43-481a-9965-53a29e4a7e70/image.png)
+
+---
 
 ## 1. HOW TO USE
 
-- **_[velog dashboard v2 - 베타 오픈!!](https://velog.io/@qlgks1/velog-dashboard-v2-%EB%B2%A0%ED%83%80-%EC%98%A4%ED%94%88-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B5%AC%EC%9D%B8)_** 글에서 그림과 같이 사용법을 확인할 수 있습니다.
+- **_[velog dashboard v2](https://velog.io/@qlgks1/velog-dashboard-v2-%EB%B2%A0%ED%83%80-%EC%98%A4%ED%94%88-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B5%AC%EC%9D%B8)_** 글에서 그림과 같이 사용법을 확인할 수 있습니다.
 
 1. https://velog.io/ 에 접속해서 내 벨로그에 들어가주세요. (ex - https://velog.io/@qlgks1)
 2. 개발자 도구 -> 어플리케이션 -> 쿠키 -> velog 부분에서 `access_token` 값과 `refresh_token` 값을 확인해 주세요.
@@ -71,12 +75,13 @@
 - 각 레포의 `README file` 을 참조해 주세요! (참고, 해당 레포는 `git submodule update` 으로 서브 모듈에 대한 주기적인 업데이트 필요)
 - 저희 전체 인프라 개괄도는 아래와 같습니다.
 
-![인프라 이미지](https://velog.velcdn.com/images/qlgks1/post/8b446ed9-7b56-43f7-a161-e5e8c562a3ef/image.png)
+![인프라 이미지](/image.png)
 
 ## 4. 참조
 
 - [velog dashboard v2 - 베타 오픈!!](https://velog.io/@qlgks1/velog-dashboard-v2-%EB%B2%A0%ED%83%80-%EC%98%A4%ED%94%88-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B5%AC%EC%9D%B8)
 - [velog dashboard v2 - 딸깍으로 전체 통계 보기](https://velog.io/@qlgks1/velog-dashboard-v2-%EB%94%B8%EA%B9%8D%EC%9C%BC%EB%A1%9C-%EC%A0%84%EC%B2%B4-%ED%86%B5%EA%B3%84-%EB%B3%B4%EA%B8%B0)
+- [velog dashboard v2 - 트랜드 글 메일로 받아보세요~~](https://velog.io/@qlgks1/velog-dashboard-v2-trend)
 - (과거글, vd v1)[velog dashboard 제작기 (1) - 벨로그 통계를 편하게 보고 싶어요 ㅠ](https://velog.io/@qlgks1/velog-dashboard-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EB%B2%A8%EB%A1%9C%EA%B7%B8-%ED%86%B5%EA%B3%84%EB%A5%BC-%ED%8E%B8%ED%95%98%EA%B2%8C-%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-%E3%85%A0)
 
 ### 🔥 Daily Batch Job Status
@@ -103,7 +108,6 @@
 | Batch 18 | ![Batch 18](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-back-office/run-daily-aggre-set18.yaml?branch=main&label=Batch%2018&style=flat-square&logo=githubactions&color=8A2BE2) |
 | Batch 19 | ![Batch 19](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-back-office/run-daily-aggre-set19.yaml?branch=main&label=Batch%2019&style=flat-square&logo=githubactions&color=8A2BE2) |
 | Batch 20 | ![Batch 20](https://img.shields.io/github/actions/workflow/status/Check-Data-Out/velog-dashboard-v2-back-office/run-daily-aggre-set20.yaml?branch=main&label=Batch%2020&style=flat-square&logo=githubactions&color=8A2BE2) |
-
 
 ### 깃헙 서브모듈 업데이트
 
